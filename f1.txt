@@ -1,1 +1,1 @@
-This is my first file to be used for merging concepts and know the merging conflicts. version 1
+This is my first file to be used for merging concepts and know the merging conflicts. version 2 file will be added with the previous version 1 of this file.
